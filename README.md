@@ -4,7 +4,7 @@
 
 Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. 
 
-* [Explore featured projects](https://open.intel.com)
+* [Explore featured projects](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html#introtext_1376301626)
 * [Explore open source jobs at Intel](https://jobs.intel.com/page/show/search-results#q=open%20source)
 
 

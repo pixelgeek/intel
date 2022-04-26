@@ -1,4 +1,4 @@
-![Open.Intel](https://www.intel.com/content/dam/develop/public/us/en/images/admin/open-wordmark-16x9-small.png) 
+![Open.Intel](https://github.com/pixelgeek/intel/blob/main/open.intel-horizontal-lu-steel-3000px.png) 
 
 ## Intel is committed to open ecosystems
 
